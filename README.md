@@ -14,7 +14,7 @@ Date : 18.03.2021
 Description : "Shopping List App" - a web app developed with bare React tools.  
 
 Important: Created with the help of tutorial provided by Chris Blakely, on Freecodecamp.org
-- Youtube : [Video Walkthrough](https://youtu.be/aeYxBd1it7I)
+- Youtube : [Video Walkthrough](https://www.youtube.com/watch?v=_N6LQd6Y2UY)
 - Article : [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-shopping-list-using-react-hooks-w-starter-code-and-video-walkthrough//)
 - Repository : [Github Repository](https://github.com/chrisblakely01/simple-shopping-list)
 
